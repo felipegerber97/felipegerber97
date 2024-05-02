@@ -1,49 +1,86 @@
-<h2 align="left">Wellcome, visitor! My name is Felipe Gerber and I'm a Electrical Engineer and Developer, from Brazil</h2>
+<h1 align="center"> < Hello, world! /> </h1>
 
-###
+<h2> Hello, visitor! Welcome to my GitHub profile! </h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipegerber97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipegerber97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div style="display: inline_block">
+  <p align="left" height="50px"> I'm Felipe Gerber, Electrical engineer and Developer. I'm 26 and I was born in Paraná, Brazil. This page contains some things about me and my career. Feel free to contact me on my social medias to know more about:  </p>
 </div>
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/felipegerberdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/felipe.erg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@CircuitandoEL" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = "mailto:dev.felipegerber@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-###
+<div>
+  
+  <br><br><br>
+  
+<h3 align="left">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ About me </h3>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img align="right" alt="Felipe-avatar" width="220px"  src="https://cdn.pixabay.com/photo/2022/02/20/14/01/avatar-7024621__340.png"  />
+
+
+👨‍🎓 • Graduated in Electrical Engineer from State University of Maringá in 2022 
+
+👨‍💻 • Electrical Engineer and Developer
+
+😊 • Pronouns: He/Him
+
+🚀 • Studying SQL, Java and Python
+
+</div>
+<br><br><br>
+
+<h3 align="center"> About my activities </h3>
+
+<h4 align="center" > Contributions  </h4>
+
+ ⠀⠀⠀⠀⠀⠀![snake gif](https://github.com/felipegerber97/felipegerber97/blob/output/github-contribution-grid-snake.svg)
+
+
+<h4 align="center" > GH Stats  </h4>
+
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipegerber97&count_private=true&theme=radical)
+
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipegerber97&theme=radical&count_private=true)](https://github.com/felipegerber97/github-readme-stats)
+
+<br>
+<h3 align="center"> Knowledge </h3>
+
+<h4  align="center"> Frontend </h4>
+
+<div  align="center" style="display: inline_block"><br>
+  <img align="center" alt="Felipe-Js" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Felipe-HTML" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  />
+  <img align="center" alt="Felipe-CSS3" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="Felipe-React" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Felipe-Node" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 </div>
 
-###
+<h4  align="center"> Backend </h4>
+<div  align="center" style="display: inline_block"><br>
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-<br clear="both">
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+</div>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<h4  align="center" > Others </h4>
 
-###
+<div align="center" style="display: inline_block"><br>
+
+
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="center" alt="Felipe-React" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+⠀
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+
+</div>
